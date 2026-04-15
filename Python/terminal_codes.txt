@@ -1,0 +1,10 @@
+"ni" - new file Eg: ni example.txt
+"del" - delete file Eg: del example.txt 
+"cd.." - Get back to previous directory
+
+"git add ." - stage all changes
+"git add _fileName1_ _fileName2_" - stage one file 
+"git reset ." - unstage all files 
+
+"git commit -m "_message_"" - Commit all.
+"git revert HEAD" - undo without deleting the history
