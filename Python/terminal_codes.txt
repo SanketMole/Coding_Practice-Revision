@@ -13,4 +13,5 @@
 "git push" - push to Main
 "git push -u origin <branch_name>" - When pushing a branch for the first time, use the -u (or --set-upstream) flag. 
 This links your local branch to the remote one so you can just use git push in the future.
-"git checkout -b <branch_name>" - create branch and switch to it in one step.      
+"git checkout -b <branch_name>" - create branch and switch to it in one step. 
+     
