@@ -15,3 +15,11 @@
 This links your local branch to the remote one so you can just use git push in the future.
 "git checkout -b <branch_name>" - create branch and switch to it in one step. 
      
+Important code: 
+How to switch to main and push in main?
+->  git checkout main
+    git pull origin main
+    git merge ssm
+    git push origin main
+How to again to back to 'ssm' branch?
+->  git checkout ssm / git switch ssm
